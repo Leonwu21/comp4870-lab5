@@ -1,0 +1,96 @@
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.AssemblyReference.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfoInputs.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfo.cs
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CoreCompileInputs.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cs
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.exe
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.staticwebassets.runtime.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.exe
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.deps.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.runtimeconfig.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.pdb
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.pdb
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\bundle\TemperatureApp.styles.css
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\projectbundle\TemperatureApp.bundle.scp.css
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CopyComplete
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.pdb
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.genruntimeconfig.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.exe
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.staticwebassets.runtime.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.exe
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.deps.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.runtimeconfig.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.pdb
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.AssemblyReference.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfoInputs.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfo.cs
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CoreCompileInputs.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cs
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\bundle\TemperatureApp.styles.css
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\projectbundle\TemperatureApp.bundle.scp.css
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CopyComplete
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.pdb
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.genruntimeconfig.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\appsettings.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.exe
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.staticwebassets.runtime.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.exe
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.deps.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.runtimeconfig.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\TemperatureApp.pdb
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\bin\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.AssemblyReference.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfoInputs.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.AssemblyInfo.cs
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CoreCompileInputs.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.RazorAssemblyInfo.cs
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\bundle\TemperatureApp.styles.css
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\scopedcss\projectbundle\TemperatureApp.bundle.scp.css
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.csproj.CopyComplete
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\ref\TemperatureApp.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.pdb
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\TemperatureApp\obj\Debug\net6.0\TemperatureApp.genruntimeconfig.cache

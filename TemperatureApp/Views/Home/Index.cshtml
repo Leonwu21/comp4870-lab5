@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="text-center">
+        <label for="temperature">Select conversion:</label>
+
+        <select name="temperature" id="temperature">
+            <option value="Celsius_to_Fahrenheit">Celsius_to_Fahrenheit</option>
+            <option value="Kelvin_to_Fahrenheit">Kelvin_to_Fahrenheit</option>
+            <option value="Celsius_to_Kelvin">Celsius_to_Kelvin</option>
+            <option value="Kelvin_to_Celsius">Kelvin_to_Celsius</option>
+            <option value="Fahrenheit_to_Kelvin">Fahrenheit_to_Kelvin</option>
+            <option value="Fahrenheit_to_Celsius">Fahrenheit_to_Celsius</option>
+        </select>
+        <label for="temp">Input double to convert:</label>
+        <input type="number" id="temp" name="temp">
+        <input type="submit" value="Convert">
+        Output: @ViewData["temp"]
+    </div>
+}

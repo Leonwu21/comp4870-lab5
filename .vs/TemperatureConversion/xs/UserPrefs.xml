@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{056D92D6-FA06-4F4B-B366-6606E73FA8EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temperature/obj/Debug/net6.0/Temperature.GlobalUsings.g.cs">
+    <Files>
+      <File FileName="Temperature/Conversion.cs" Line="1" Column="1" />
+      <File FileName="Temperature/Program.cs" Line="1" Column="1" />
+      <File FileName="TemperatureTests/UnitTest.cs" Line="10" Column="1" />
+      <File FileName="Temperature/obj/Debug/net6.0/Temperature.GlobalUsings.g.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemperatureConversion" expanded="True">
+            <Node name="Temperature" expanded="True" />
+            <Node name="TemperatureTests" expanded="True">
+              <Node name="UnitTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Temperature PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,45 @@
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\ref\Temperature.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\ref\Temperature.dll
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\Users\bhali\COMP4870\Week05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\ref\Temperature.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\ref\Temperature.dll
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\OneDrive\Desktop\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\ref\Temperature.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\ref\Temperature.dll
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\Users\azn-l\comp4870\W5 stuff\lab5\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
